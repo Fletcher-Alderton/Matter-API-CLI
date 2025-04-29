@@ -1,0 +1,65 @@
+# Dependency directories
+node_modules/
+.npm/
+
+# Bun specific
+.bun/
+**/bun-debug.*
+
+# Environment files
+.env*
+!.env.example
+
+# Build outputs
+dist/
+build/
+out/
+*.tsbuildinfo
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Cache directories
+.npm/
+.eslintcache
+.node_repl_history
+.yarn-integrity
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+.cursor/
+
+# Testing
+coverage/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Generated documentation
+api-docs/
+**/json/api-results.json
+**/json/successful-endpoints.json
+
+# JSON files to ignore
+api-results.json
+settings.json
+successful-endpoints.json
+
+# Temporary files
+tmp/
+temp/ 
