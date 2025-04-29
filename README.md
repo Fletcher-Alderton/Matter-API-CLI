@@ -12,7 +12,7 @@ Since Matter doesn't provide official API documentation, these tools allow you t
 
 ## Getting Started
 
-Before using these tools, make sure you have your phone ready to authentice
+Before using these tools, make sure you have your phone ready to authenticate
 
 
 
